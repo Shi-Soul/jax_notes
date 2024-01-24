@@ -1,0 +1,3 @@
+[submodule "jax"]
+	path = jax
+	url = git@github.com:google/jax.git
